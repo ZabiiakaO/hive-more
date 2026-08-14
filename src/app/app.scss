@@ -197,22 +197,6 @@ h1 {
 h1.reveal { animation: fadeUp 0.85s ease 0.25s forwards; }
 h1 em { color: var(--gold); font-weight: 700; }
 
-.service-summary {
-  max-width: 680px;
-  margin: 24px auto 0;
-  color: var(--navy);
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: clamp(11px, 1.1vw, 15px);
-  line-height: 1.65;
-  letter-spacing: 0.04em;
-  text-align: center;
-  opacity: 0;
-}
-
-.service-summary.reveal {
-  animation: fadeUp 0.85s ease 0.45s forwards;
-}
-
 .goldline-row {
   position: relative;
   left: 50%;
