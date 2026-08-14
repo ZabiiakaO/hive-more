@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1155" fill="white" role="img" aria-labelledby="title description">
+  <title id="title">HiveMore logo mark</title>
+  <desc id="description">A navy and gold bee inside a hexagonal smart hive symbol.</desc>
+  <defs>
+    <clipPath id="bee-body">
+      <path d="M438 493 C420 527 421 594 436 652 C448 698 478 741 500 770 C522 741 552 698 564 652 C579 594 580 527 562 493 C532 478 468 478 438 493Z"/>
+    </clipPath>
+  </defs>
+
+  <g fill="#f7f3e9" stroke="#0B2744" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M500 35 L960 300 L960 832 L500 1098 L40 832 L40 300 Z" stroke-width="26"/>
+
+    <path d="M464 318 C456 274 435 237 399 216" stroke-width="13"/>
+    <path d="M536 318 C544 274 565 237 601 216" stroke-width="13"/>
+
+    <path d="M465 418 C384 366 271 310 130 337 C144 436 220 493 337 485 C390 481 436 453 475 430" stroke-width="12"/>
+    <path d="M535 418 C616 366 729 310 870 337 C856 436 780 493 663 485 C610 481 564 453 525 430" stroke-width="12"/>
+
+    <path d="M457 428 C367 420 286 457 212 521 C270 587 349 560 429 478 C444 463 457 445 471 431" stroke-width="12"/>
+    <path d="M543 428 C633 420 714 457 788 521 C730 587 651 560 571 478 C556 463 543 445 529 431" stroke-width="12"/>
+  </g>
+
+  <g fill="#0B2744">
+    <circle cx="500" cy="359" r="57"/>
+    <path d="M454 399 C435 424 431 468 441 510 C458 493 478 486 500 486 C522 486 542 493 559 510 C569 468 565 424 546 399 C522 382 478 382 454 399Z"/>
+  </g>
+
+  <g clip-path="url(#bee-body)">
+    <rect x="410" y="470" width="180" height="320" fill="#0B2744"/>
+    <path d="M408 510 Q500 477 592 510 L592 566 Q500 540 408 566Z" fill="#C99E43"/>
+    <path d="M408 615 Q500 586 592 615 L592 672 Q500 647 408 672Z" fill="#C99E43"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#0B2744" stroke-width="10">
+      <path d="M158 604 V789 L188 808"/>
+      <path d="M842 604 V789 L812 808"/>
+    </g>
+    <g stroke="#C99E43" stroke-width="11" fill="#F7F3E9">
+      <circle cx="158" cy="584" r="22"/>
+      <circle cx="842" cy="584" r="22"/>
+    </g>
+
+    <g stroke="#C99E43">
+      <path d="M265 725 L500 867 L735 725" stroke-width="35"/>
+      <path d="M265 808 L500 950 L735 808" stroke-width="35"/>
+      <path d="M265 898 L500 1038 L735 898" stroke-width="25"/>
+    </g>
+  </g>
+</svg>
